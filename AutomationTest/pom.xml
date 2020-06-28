@@ -37,8 +37,7 @@
               <artifactId>maven-surefire-plugin</artifactId>
               <version>2.19.1</version>
               <configuration>
-              	<includes>Comtest.java</includes>
-              	<includes>Comtest2.java</includes>
+              	<includes>Comtest.java,Comtest2.java</includes>
               	
               </configuration>
           </plugin>
